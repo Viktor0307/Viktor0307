@@ -1,0 +1,9 @@
+int l = int.Parse(Console.ReadLine());
+            int w = int.Parse(Console.ReadLine());
+            int h = int.Parse(Console.ReadLine());
+            double percents = double.Parse(Console.ReadLine());
+ 
+            double obem = l * w * h;
+            double realObem = obem - (obem * percents / 100);
+            double littreCappacity = realObem / 1000;
+            Console.WriteLine($"{littreCappacity}");
