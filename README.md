@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Viktor0307
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me belevviktor1@gmail.com
+- 📫 How to reach me viktorbelev771@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
